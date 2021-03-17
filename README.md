@@ -6,7 +6,8 @@ dinosaur web game
   ### Este icone foi tirado deste site: [*icones*](https://www.flaticon.com/br/packs/biochemistry-48).  
 ---
 #### para colocar uma imagen no usando markdown utilize o seguinte comando  
+
 ```  
-![This is a alt text.](/image/sample.png "This is a sample image.")  
+![This is a alt text.](/image/sample.png "This is a sample image.") 
 
 ```
